@@ -1,0 +1,41 @@
+
+/dist
+/node_modules
+/public/polyfill
+/src/assets/polyfill/
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+*.lock
+
+pids
+logs
+results
+tmp
+coverage
+temp
+
+# API keys
+.env
+
+
+# Dependency directory
+node_modules
+bower_components
+package-lock.json
+public/**/*.map
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
